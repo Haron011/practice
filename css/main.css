@@ -395,15 +395,6 @@ header.sticky{
 		width: 100%;
 	}
 }
-@media (max-height: 680px){
-	.container{
-		margin-top: 150px;
-	}
-}
-
-
-
-
 
 
 
